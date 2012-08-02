@@ -1,0 +1,1509 @@
+2012-07-29 02:09:50 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/index.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 02:24:47 Error: [MissingControllerException] Controller class MaController could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-07-29 14:36:29 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:37:28 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:37:29 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:37:30 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:41:24 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:41:25 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:41:36 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/r_e_q.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:41:44 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:42:17 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:42:19 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:42:20 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:42:20 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:42:51 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:43:06 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:43:09 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:43:11 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:43:11 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:43:11 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:43:19 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:43:29 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:44:03 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:44:24 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:45:00 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:45:08 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:45:11 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:45:18 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:45:47 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:49:43 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:50:42 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:51:01 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:51:16 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:51:49 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:54:27 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:55:40 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:56:15 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:56:17 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:56:17 Error: [MissingViewException] View file "/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp" is missing.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-07-29 14:56:26 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 14:58:48 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 15:00:45 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 15:01:01 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 15:01:39 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 15:22:15 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 15:22:43 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 15:23:14 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 17:19:48 Error: [XmlException] Invalid input.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Xml.php(94): Xml::fromArray(Array, Array)
+#1 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(21): Xml::build(Object(HttpResponse))
+#2 [internal function]: MainController->req()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2012-07-29 17:22:41 Error: [XmlException] Invalid input.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Xml.php(94): Xml::fromArray(Array, Array)
+#1 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(21): Xml::build(Object(HttpResponse))
+#2 [internal function]: MainController->req()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2012-07-29 17:24:55 Error: [XmlException] Invalid input.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Xml.php(94): Xml::fromArray(Array, Array)
+#1 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(21): Xml::build(Object(HttpResponse))
+#2 [internal function]: MainController->req()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2012-07-29 17:29:04 Error: [XmlException] Invalid input.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Xml.php(94): Xml::fromArray(Array, Array)
+#1 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(21): Xml::build(Object(HttpResponse))
+#2 [internal function]: MainController->req()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2012-07-29 17:47:10 Error: [XmlException] Invalid input.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Xml.php(94): Xml::fromArray(Array, Array)
+#1 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(22): Xml::build(Object(HttpResponse))
+#2 [internal function]: MainController->req()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2012-07-29 18:14:52 Error: [XmlException] Invalid input.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Xml.php(94): Xml::fromArray(Array, Array)
+#1 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(22): Xml::build(Object(HttpResponse))
+#2 [internal function]: MainController->req()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2012-07-29 18:16:45 Error: [XmlException] Invalid input.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Xml.php(94): Xml::fromArray(Array, Array)
+#1 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(22): Xml::build(Object(HttpResponse))
+#2 [internal function]: MainController->req()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2012-07-29 18:22:04 Error: [XmlException] Invalid input.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Xml.php(94): Xml::fromArray(Array, Array)
+#1 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(23): Xml::build(Object(HttpResponse))
+#2 [internal function]: MainController->req()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2012-07-29 18:35:54 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 21:33:38 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(24): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-07-29 21:33:41 Error: [MissingActionException] Action MainController::req.php() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-29 23:52:28 Error: [MissingActionException] Action MainController::index() could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-07-30 20:34:31 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:34:52 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:35:53 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:36:45 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:38:25 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:38:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:39:10 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:39:12 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:39:24 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:39:57 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:40:30 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:43:04 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:44:48 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:48:13 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:48:16 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:49:10 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:49:12 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:49:35 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:53:24 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 20:53:38 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 21:15:51 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 56]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 21:33:41 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(37): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-07-30 21:53:48 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 37]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 37
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 21:58:32 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 38]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 38
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 22:34:03 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(25): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-07-30 23:33:07 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 38]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 38
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 23:33:51 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(25): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-07-30 23:34:48 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 38]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 38
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 23:37:20 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 39]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 39
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 23:38:33 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 39]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 39
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 00:29:41 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 41]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 41
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 00:34:12 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 41]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 41
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 00:35:06 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(25): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-07-31 01:01:40 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 41]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 41
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 01:02:48 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(25): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-07-31 01:03:18 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(25): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-07-31 01:03:21 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(25): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-07-31 01:57:55 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 42]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 42
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 02:00:30 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 42]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 42
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 02:01:19 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 42]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 42
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 02:02:15 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 42]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 42
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 02:02:15 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 42]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 42
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 02:36:57 Error: [MissingTableException] Database table mains for model Main was not found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(3265): Model->setSource('mains')
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(1223): Model->getDataSource()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(197): Model->schema()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('Main', 'fields')
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/View/Main/index.ctp(1): FormHelper->create()
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(595): include('/home/shota/cak...')
+#6 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(362): View->_render('/home/shota/cak...')
+#7 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#8 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#9 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-07-31 02:38:16 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 50]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 50
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 02:38:19 Error: [MissingTableException] Database table mains for model Main was not found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(3265): Model->setSource('mains')
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(1223): Model->getDataSource()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(197): Model->schema()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('Main', 'fields')
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/View/Main/index.ctp(1): FormHelper->create()
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(595): include('/home/shota/cak...')
+#6 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(362): View->_render('/home/shota/cak...')
+#7 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#8 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#9 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-07-31 02:40:30 Error: [XmlException] Invalid input.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(19): Xml::build(NULL)
+#1 [internal function]: MainController->index()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-07-31 02:40:47 Error: [MissingTableException] Database table mains for model Main was not found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(3265): Model->setSource('mains')
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(1223): Model->getDataSource()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(197): Model->schema()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('Main', 'fields')
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/View/Main/index.ctp(1): FormHelper->create()
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(595): include('/home/shota/cak...')
+#6 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(362): View->_render('/home/shota/cak...')
+#7 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#8 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#9 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-07-31 03:05:26 Error: [MissingTableException] Database table mains for model Main was not found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(3265): Model->setSource('mains')
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(1223): Model->getDataSource()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(197): Model->schema()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('Main', 'fields')
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/View/Main/index.ctp(1): FormHelper->create()
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(595): include('/home/shota/cak...')
+#6 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(362): View->_render('/home/shota/cak...')
+#7 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#8 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#9 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-07-31 04:16:36 Error: [MissingTableException] Database table mains for model Main was not found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(3265): Model->setSource('mains')
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(1223): Model->getDataSource()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(197): Model->schema()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('Main', 'fields')
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/View/Main/index.ctp(1): FormHelper->create()
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(595): include('/home/shota/cak...')
+#6 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(362): View->_render('/home/shota/cak...')
+#7 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#8 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#9 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-07-31 04:16:45 Error: [MissingTableException] Database table mains for model Main was not found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(3265): Model->setSource('mains')
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(1223): Model->getDataSource()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(197): Model->schema()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('Main', 'fields')
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/View/Main/index.ctp(1): FormHelper->create()
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(595): include('/home/shota/cak...')
+#6 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(362): View->_render('/home/shota/cak...')
+#7 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#8 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#9 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-07-31 04:17:31 Error: [MissingTableException] Database table shops for model Shop was not found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(3265): Model->setSource('shops')
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(1223): Model->getDataSource()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(197): Model->schema()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('Shop', 'fields')
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/View/Main/index.ctp(1): FormHelper->create()
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(595): include('/home/shota/cak...')
+#6 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(362): View->_render('/home/shota/cak...')
+#7 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#8 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#9 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-07-31 04:17:32 Error: [MissingTableException] Database table shops for model Shop was not found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(3265): Model->setSource('shops')
+#1 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Model/Model.php(1223): Model->getDataSource()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(197): Model->schema()
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('Shop', 'fields')
+#4 /home/shota/cake/ikemen.kaihatsu.org/app/View/Main/index.ctp(1): FormHelper->create()
+#5 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(595): include('/home/shota/cak...')
+#6 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/View/View.php(362): View->_render('/home/shota/cak...')
+#7 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#8 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#9 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-07-31 04:29:29 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 71]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 71
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 04:30:40 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 75]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 04:31:39 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 75]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 04:31:53 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 75]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 04:40:21 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 74]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 74
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 04:40:34 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 74]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 74
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 04:42:58 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 74]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 74
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 04:43:18 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 74]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 74
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 04:43:41 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 74]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 74
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 04:44:23 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 74]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 74
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 04:44:36 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 74]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 74
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 21:06:52 Error: [MissingControllerException] Controller class MaiController could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-07-31 21:19:38 Error: [MissingControllerException] Controller class MaiController could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-07-31 21:33:02 Error: [MissingControllerException] Controller class MaiController could not be found.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-07-31 22:34:15 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 75]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:35:06 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(59): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-07-31 22:35:18 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(59): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-07-31 22:38:15 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 75]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:39:20 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 78]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:39:45 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 78]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:40:00 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 78]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:40:44 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 78]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:41:46 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 78]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:41:59 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 79]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:42:05 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 79]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:42:10 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 79]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:43:17 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 79]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:44:11 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 80]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:44:53 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 74]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 74
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:45:13 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 74]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 74
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:45:53 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 77]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:46:03 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 77]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:46:08 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 77]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:46:12 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 77]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:46:16 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 77]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:46:47 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 77]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:46:51 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 77]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:46:59 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 77]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:47:02 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 77]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:47:04 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 77]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:47:07 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 77]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:47:10 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 77]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:47:14 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 77]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:47:44 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 78]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:48:27 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/basics.php:114) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 79]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:48:35 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 79]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-31 22:49:37 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 78]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:11:53 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 82]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:11:55 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 82]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:12:00 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 82]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:12:05 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 82]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:15:35 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 82]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:15:40 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 82]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:16:35 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 83]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 83
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:17:48 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 82]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:18:37 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 82]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:19:11 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 82]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:19:14 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 82]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:19:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 82]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:19:51 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 82]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:19:55 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Utility/Debugger.php:707) in [/home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php, line 82]
+Trace:
+header - [internal], line ??
+MainController::req() - APP/Controller/MainController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 104
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-08-01 20:35:01 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(74): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-08-01 21:34:22 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(74): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-08-01 21:34:47 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(74): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-08-01 21:35:18 Error: [XmlException] XML cannot be read.
+#0 /home/shota/cake/ikemen.kaihatsu.org/app/Controller/MainController.php(74): Xml::build('')
+#1 [internal function]: MainController->req()
+#2 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#3 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#4 /home/shota/cake/ikemen.kaihatsu.org/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/shota/cake/ikemen.kaihatsu.org/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}

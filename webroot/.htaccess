@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ index.php?/$1 [QSA,L]
+</IfModule>
+
+AuthType Basic
+AuthName "secret area"
+AuthGroupFile /dev/null
+
+AuthUserFile /etc/httpd/htpasswd
+Require valid-user

@@ -1,0 +1,20 @@
+2012-07-30 00:47:27 Notice: Notice (8): Undefined index: latitude in [/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp, line 2]
+Trace:
+include - APP/View/Main/req.ctp, line 2
+View::_render() - CORE/Cake/View/View.php, line 595
+View::render() - CORE/Cake/View/View.php, line 362
+Controller::render() - CORE/Cake/Controller/Controller.php, line 900
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 111
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-07-30 00:47:27 Notice: Notice (8): Undefined index: longitude in [/home/shota/cake/ikemen.kaihatsu.org/app/View/Main/req.ctp, line 3]
+Trace:
+include - APP/View/Main/req.ctp, line 3
+View::_render() - CORE/Cake/View/View.php, line 595
+View::render() - CORE/Cake/View/View.php, line 362
+Controller::render() - CORE/Cake/Controller/Controller.php, line 900
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 111
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
